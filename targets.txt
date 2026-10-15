@@ -1,0 +1,11 @@
+# Pastas onde cada ferramenta procura skills.
+# Formato: nome | pasta da ferramenta | pasta de skills
+# A skill só é instalada se a "pasta da ferramenta" existir (ou seja, se a
+# ferramenta está instalada). Use --all / -All para ignorar essa checagem.
+# "~" é a pasta do usuário. Linhas com # são ignoradas.
+
+claude      | ~/.claude                | ~/.claude/skills
+codex       | ~/.codex                 | ~/.codex/skills
+gemini      | ~/.gemini                | ~/.gemini/skills
+antigravity | ~/.gemini/antigravity    | ~/.gemini/antigravity/skills
+agents      | ~/.agents                | ~/.agents/skills
