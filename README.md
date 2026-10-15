@@ -1,6 +1,6 @@
 # My Skills
 
-Minhas skills de agentes de IA que utilizo no dia a dia. Cada skill segue o formato aberto `SKILL.md` (frontmatter com `name` e `description` + instruções em Markdown), que Claude Code, Codex, Gemini CLI e Antigravity entendem.
+A idéia deste repo é facilitar a instalação das minhas skills mais utilizadas, independente da ferramenta (Claude Code, AGY CLI, ...).
 
 ## Estrutura
 
